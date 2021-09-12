@@ -1,0 +1,8 @@
+﻿  main.c
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\vcruntime.h(265,9): warning C4668: "__cplusplus" не задано как макроопределение препроцессора, замена на "0" для "#if/#elif"
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\vcruntime.h(268,11): warning C4668: "__cplusplus" не задано как макроопределение препроцессора, замена на "0" для "#if/#elif"
+C:\Users\Компьютер\Downloads\c-master\c-master\HashTable\main.c(30,11): warning C4255: main: прототип функции не задан: преобразование "()" в "(void)"
+C:\Users\Компьютер\Downloads\c-master\c-master\HashTable\main.c(32,9): warning C4013: system: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(948,37): warning C4710: int printf(const char *const ,...): функция не является встроенной
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(948): message : см. объявление "printf"
+  test.vcxproj -> D:\dev\c\test\Debug\test.exe

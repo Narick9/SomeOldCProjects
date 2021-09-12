@@ -1,0 +1,1 @@
+launch -i ./data/input.txt -o ./data/output.txt

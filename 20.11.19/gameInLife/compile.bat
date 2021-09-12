@@ -1,0 +1,2 @@
+make gameInLife && gameInLife
+pause

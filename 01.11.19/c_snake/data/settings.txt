@@ -1,0 +1,5 @@
+#MainMenu
+1 - Start game;
+2 - Map settings;
+3 - Snake settings;
+#end

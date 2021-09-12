@@ -1,0 +1,21 @@
+﻿  HashTable.c
+C:\Users\Компьютер\Downloads\c-master\c-master\HashTable\HashTable.c(114,9): warning C4477: "printf": в строке форматирования "%I64u" требуется аргумент типа "unsigned __int64", но вариативный аргумент "2" имеет тип "size_t"
+C:\Users\Компьютер\Downloads\c-master\c-master\HashTable\HashTable.c(114,9): message : рекомендуется использовать "%zu" в строке форматирования
+C:\Users\Компьютер\Downloads\c-master\c-master\HashTable\HashTable.c(116,9): warning C4477: "printf": в строке форматирования "%I64u" требуется аргумент типа "unsigned __int64", но вариативный аргумент "2" имеет тип "size_t"
+C:\Users\Компьютер\Downloads\c-master\c-master\HashTable\HashTable.c(116,9): message : рекомендуется использовать "%zu" в строке форматирования
+  main.c
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\vcruntime.h(265,9): warning C4668: "__cplusplus" не задано как макроопределение препроцессора, замена на "0" для "#if/#elif"
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\vcruntime.h(268,11): warning C4668: "__cplusplus" не задано как макроопределение препроцессора, замена на "0" для "#if/#elif"
+C:\Users\Компьютер\Downloads\c-master\c-master\HashTable\main.c(30,11): warning C4255: main: прототип функции не задан: преобразование "()" в "(void)"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(948,37): warning C4710: int printf(const char *const ,...): функция не является встроенной
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(948): message : см. объявление "printf"
+  Создание кода
+  Previous IPDB not found, fall back to full compilation.
+  All 12 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+C:\Users\Компьютер\Downloads\c-master\c-master\HashTable\main.c(43): warning C4710: printf: функция не является встроенной
+  Создание кода завершено
+  test.vcxproj -> D:\dev\c\test\Release\test.exe
+C:\Users\Компьютер\Downloads\c-master\c-master\HashTable\HashTable.c(43): warning C6386: Переполнение буфера при записи в "ht->table":  доступный для записи объем равен "size*sizeof(Item *)" байт, однако записать можно только "8" байт.
+C:\Users\Компьютер\Downloads\c-master\c-master\HashTable\HashTable.c(102): warning C6011: Разыменование пустого указателя "ht->table[i]". 
+C:\Users\Компьютер\Downloads\c-master\c-master\HashTable\HashTable.c(114): warning C6328: Несоответствие размера: "unsigned int" передан в качестве параметра _Param_(3), хотя при вызове "printf" требуется "long long". 
+C:\Users\Компьютер\Downloads\c-master\c-master\HashTable\HashTable.c(116): warning C6328: Несоответствие размера: "unsigned int" передан в качестве параметра _Param_(3), хотя при вызове "printf" требуется "long long". 

@@ -1,0 +1,8 @@
+E:/c/20.11.19/CMake_test/CMakeFiles/project_test.dir
+E:/c/20.11.19/CMake_test/CMakeFiles/lib.dir
+E:/c/20.11.19/CMake_test/CMakeFiles/install/local.dir
+E:/c/20.11.19/CMake_test/CMakeFiles/install.dir
+E:/c/20.11.19/CMake_test/CMakeFiles/edit_cache.dir
+E:/c/20.11.19/CMake_test/CMakeFiles/rebuild_cache.dir
+E:/c/20.11.19/CMake_test/CMakeFiles/list_install_components.dir
+E:/c/20.11.19/CMake_test/CMakeFiles/install/strip.dir

@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/c/20.11.19/CMake_test2/sources/main.c
+stdio.h
+-
+stdlib.h
+-
+mylib.h
+E:/c/20.11.19/CMake_test2/sources/mylib.h
+
+E:/c/20.11.19/CMake_test2/sources/mylib.h
+stdio.h
+-
+

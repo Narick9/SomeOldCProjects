@@ -1,0 +1,404 @@
+Determining if files dirent.h exist failed with the following output:
+Change Dir: E:/c/20.11.19/CMake_test/cmake_folder/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/MSBuild/Current/Bin/MSBuild.exe cmTC_ae2c3.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && Microsoft (R) Build Engine ўҐабЁЁ 16.3.1+1def00d3d ¤«п .NET Framework
+(C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation). ‚бҐ Їа ў  § йЁйҐ­л.
+
+  ЋЇвЁ¬Ё§ЁагойЁ© Є®¬ЇЁ«пв®а Microsoft (R) C/C++ ўҐабЁЁ 19.23.28106.4 ¤«п x64
+  ALLEGRO_HAVE_DIRENT_H.c
+  (C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation).  ‚бҐ Їа ў  § йЁйҐ­л.
+  cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D WIN32 /D _WINDOWS /D _CRT_SECURE_NO_DEPRECATE /D _CRT_NONSTDC_NO_DEPRECATE /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_ae2c3.dir\Debug\\" /Fd"cmTC_ae2c3.dir\Debug\vc142.pdb" /Gd /TC /errorReport:queue E:\c\20.11.19\CMake_test\cmake_folder\CMakeFiles\CheckIncludeFiles\ALLEGRO_HAVE_DIRENT_H.c
+E:\c\20.11.19\CMake_test\cmake_folder\CMakeFiles\CheckIncludeFiles\ALLEGRO_HAVE_DIRENT_H.c(2,10): fatal error C1083: ЌҐ г¤ Ґвбп ®вЄалвм д ©« ўЄ«озҐ­ЁҐ: dirent.h: No such file or directory, [E:\c\20.11.19\CMake_test\cmake_folder\CMakeFiles\CMakeTmp\cmTC_ae2c3.vcxproj]
+
+
+Source:
+/* */
+#include <dirent.h>
+
+
+int main(void){return 0;}
+
+Determining if files sys/types.h;linux/joystick.h exist failed with the following output:
+Change Dir: E:/c/20.11.19/CMake_test/cmake_folder/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/MSBuild/Current/Bin/MSBuild.exe cmTC_a05d6.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && Microsoft (R) Build Engine ўҐабЁЁ 16.3.1+1def00d3d ¤«п .NET Framework
+(C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation). ‚бҐ Їа ў  § йЁйҐ­л.
+
+  ЋЇвЁ¬Ё§ЁагойЁ© Є®¬ЇЁ«пв®а Microsoft (R) C/C++ ўҐабЁЁ 19.23.28106.4 ¤«п x64
+  ALLEGRO_HAVE_LINUX_JOYSTICK_H.c
+  (C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation).  ‚бҐ Їа ў  § йЁйҐ­л.
+  cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D WIN32 /D _WINDOWS /D _CRT_SECURE_NO_DEPRECATE /D _CRT_NONSTDC_NO_DEPRECATE /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_a05d6.dir\Debug\\" /Fd"cmTC_a05d6.dir\Debug\vc142.pdb" /Gd /TC /errorReport:queue E:\c\20.11.19\CMake_test\cmake_folder\CMakeFiles\CheckIncludeFiles\ALLEGRO_HAVE_LINUX_JOYSTICK_H.c
+E:\c\20.11.19\CMake_test\cmake_folder\CMakeFiles\CheckIncludeFiles\ALLEGRO_HAVE_LINUX_JOYSTICK_H.c(3,10): fatal error C1083: ЌҐ г¤ Ґвбп ®вЄалвм д ©« ўЄ«озҐ­ЁҐ: linux/joystick.h: No such file or directory, [E:\c\20.11.19\CMake_test\cmake_folder\CMakeFiles\CMakeTmp\cmTC_a05d6.vcxproj]
+
+
+Source:
+/* */
+#include <sys/types.h>
+#include <linux/joystick.h>
+
+
+int main(void){return 0;}
+
+Determining if files sys/io.h exist failed with the following output:
+Change Dir: E:/c/20.11.19/CMake_test/cmake_folder/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/MSBuild/Current/Bin/MSBuild.exe cmTC_bf3ff.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && Microsoft (R) Build Engine ўҐабЁЁ 16.3.1+1def00d3d ¤«п .NET Framework
+(C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation). ‚бҐ Їа ў  § йЁйҐ­л.
+
+  ЋЇвЁ¬Ё§ЁагойЁ© Є®¬ЇЁ«пв®а Microsoft (R) C/C++ ўҐабЁЁ 19.23.28106.4 ¤«п x64
+  ALLEGRO_HAVE_SYS_IO_H.c
+  (C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation).  ‚бҐ Їа ў  § йЁйҐ­л.
+  cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D WIN32 /D _WINDOWS /D _CRT_SECURE_NO_DEPRECATE /D _CRT_NONSTDC_NO_DEPRECATE /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_bf3ff.dir\Debug\\" /Fd"cmTC_bf3ff.dir\Debug\vc142.pdb" /Gd /TC /errorReport:queue E:\c\20.11.19\CMake_test\cmake_folder\CMakeFiles\CheckIncludeFiles\ALLEGRO_HAVE_SYS_IO_H.c
+E:\c\20.11.19\CMake_test\cmake_folder\CMakeFiles\CheckIncludeFiles\ALLEGRO_HAVE_SYS_IO_H.c(2,10): fatal error C1083: ЌҐ г¤ Ґвбп ®вЄалвм д ©« ўЄ«озҐ­ЁҐ: sys/io.h: No such file or directory, [E:\c\20.11.19\CMake_test\cmake_folder\CMakeFiles\CMakeTmp\cmTC_bf3ff.vcxproj]
+
+
+Source:
+/* */
+#include <sys/io.h>
+
+
+int main(void){return 0;}
+
+Determining if files sys/time.h exist failed with the following output:
+Change Dir: E:/c/20.11.19/CMake_test/cmake_folder/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/MSBuild/Current/Bin/MSBuild.exe cmTC_14ff4.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && Microsoft (R) Build Engine ўҐабЁЁ 16.3.1+1def00d3d ¤«п .NET Framework
+(C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation). ‚бҐ Їа ў  § йЁйҐ­л.
+
+  ЋЇвЁ¬Ё§ЁагойЁ© Є®¬ЇЁ«пв®а Microsoft (R) C/C++ ўҐабЁЁ 19.23.28106.4 ¤«п x64
+  ALLEGRO_HAVE_SYS_TIME_H.c
+  (C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation).  ‚бҐ Їа ў  § йЁйҐ­л.
+  cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D WIN32 /D _WINDOWS /D _CRT_SECURE_NO_DEPRECATE /D _CRT_NONSTDC_NO_DEPRECATE /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_14ff4.dir\Debug\\" /Fd"cmTC_14ff4.dir\Debug\vc142.pdb" /Gd /TC /errorReport:queue E:\c\20.11.19\CMake_test\cmake_folder\CMakeFiles\CheckIncludeFiles\ALLEGRO_HAVE_SYS_TIME_H.c
+E:\c\20.11.19\CMake_test\cmake_folder\CMakeFiles\CheckIncludeFiles\ALLEGRO_HAVE_SYS_TIME_H.c(2,10): fatal error C1083: ЌҐ г¤ Ґвбп ®вЄалвм д ©« ўЄ«озҐ­ЁҐ: sys/time.h: No such file or directory, [E:\c\20.11.19\CMake_test\cmake_folder\CMakeFiles\CMakeTmp\cmTC_14ff4.vcxproj]
+
+
+Source:
+/* */
+#include <sys/time.h>
+
+
+int main(void){return 0;}
+
+Determining if files sys/utsname.h exist failed with the following output:
+Change Dir: E:/c/20.11.19/CMake_test/cmake_folder/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/MSBuild/Current/Bin/MSBuild.exe cmTC_98613.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && Microsoft (R) Build Engine ўҐабЁЁ 16.3.1+1def00d3d ¤«п .NET Framework
+(C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation). ‚бҐ Їа ў  § йЁйҐ­л.
+
+  ЋЇвЁ¬Ё§ЁагойЁ© Є®¬ЇЁ«пв®а Microsoft (R) C/C++ ўҐабЁЁ 19.23.28106.4 ¤«п x64
+  ALLEGRO_HAVE_SYS_UTSNAME_H.c
+  (C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation).  ‚бҐ Їа ў  § йЁйҐ­л.
+  cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D WIN32 /D _WINDOWS /D _CRT_SECURE_NO_DEPRECATE /D _CRT_NONSTDC_NO_DEPRECATE /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_98613.dir\Debug\\" /Fd"cmTC_98613.dir\Debug\vc142.pdb" /Gd /TC /errorReport:queue E:\c\20.11.19\CMake_test\cmake_folder\CMakeFiles\CheckIncludeFiles\ALLEGRO_HAVE_SYS_UTSNAME_H.c
+E:\c\20.11.19\CMake_test\cmake_folder\CMakeFiles\CheckIncludeFiles\ALLEGRO_HAVE_SYS_UTSNAME_H.c(2,10): fatal error C1083: ЌҐ г¤ Ґвбп ®вЄалвм д ©« ўЄ«озҐ­ЁҐ: sys/utsname.h: No such file or directory, [E:\c\20.11.19\CMake_test\cmake_folder\CMakeFiles\CMakeTmp\cmTC_98613.vcxproj]
+
+
+Source:
+/* */
+#include <sys/utsname.h>
+
+
+int main(void){return 0;}
+
+Determining if files soundcard.h exist failed with the following output:
+Change Dir: E:/c/20.11.19/CMake_test/cmake_folder/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/MSBuild/Current/Bin/MSBuild.exe cmTC_b3569.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && Microsoft (R) Build Engine ўҐабЁЁ 16.3.1+1def00d3d ¤«п .NET Framework
+(C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation). ‚бҐ Їа ў  § йЁйҐ­л.
+
+  ЋЇвЁ¬Ё§ЁагойЁ© Є®¬ЇЁ«пв®а Microsoft (R) C/C++ ўҐабЁЁ 19.23.28106.4 ¤«п x64
+  ALLEGRO_HAVE_SOUNDCARD_H.c
+  (C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation).  ‚бҐ Їа ў  § йЁйҐ­л.
+  cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D WIN32 /D _WINDOWS /D _CRT_SECURE_NO_DEPRECATE /D _CRT_NONSTDC_NO_DEPRECATE /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_b3569.dir\Debug\\" /Fd"cmTC_b3569.dir\Debug\vc142.pdb" /Gd /TC /errorReport:queue E:\c\20.11.19\CMake_test\cmake_folder\CMakeFiles\CheckIncludeFiles\ALLEGRO_HAVE_SOUNDCARD_H.c
+E:\c\20.11.19\CMake_test\cmake_folder\CMakeFiles\CheckIncludeFiles\ALLEGRO_HAVE_SOUNDCARD_H.c(2,10): fatal error C1083: ЌҐ г¤ Ґвбп ®вЄалвм д ©« ўЄ«озҐ­ЁҐ: soundcard.h: No such file or directory, [E:\c\20.11.19\CMake_test\cmake_folder\CMakeFiles\CMakeTmp\cmTC_b3569.vcxproj]
+
+
+Source:
+/* */
+#include <soundcard.h>
+
+
+int main(void){return 0;}
+
+Determining if files sys/soundcard.h exist failed with the following output:
+Change Dir: E:/c/20.11.19/CMake_test/cmake_folder/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/MSBuild/Current/Bin/MSBuild.exe cmTC_42fb0.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && Microsoft (R) Build Engine ўҐабЁЁ 16.3.1+1def00d3d ¤«п .NET Framework
+(C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation). ‚бҐ Їа ў  § йЁйҐ­л.
+
+  ЋЇвЁ¬Ё§ЁагойЁ© Є®¬ЇЁ«пв®а Microsoft (R) C/C++ ўҐабЁЁ 19.23.28106.4 ¤«п x64
+  ALLEGRO_HAVE_SYS_SOUNDCARD_H.c
+  (C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation).  ‚бҐ Їа ў  § йЁйҐ­л.
+  cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D WIN32 /D _WINDOWS /D _CRT_SECURE_NO_DEPRECATE /D _CRT_NONSTDC_NO_DEPRECATE /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_42fb0.dir\Debug\\" /Fd"cmTC_42fb0.dir\Debug\vc142.pdb" /Gd /TC /errorReport:queue E:\c\20.11.19\CMake_test\cmake_folder\CMakeFiles\CheckIncludeFiles\ALLEGRO_HAVE_SYS_SOUNDCARD_H.c
+E:\c\20.11.19\CMake_test\cmake_folder\CMakeFiles\CheckIncludeFiles\ALLEGRO_HAVE_SYS_SOUNDCARD_H.c(2,10): fatal error C1083: ЌҐ г¤ Ґвбп ®вЄалвм д ©« ўЄ«озҐ­ЁҐ: sys/soundcard.h: No such file or directory, [E:\c\20.11.19\CMake_test\cmake_folder\CMakeFiles\CMakeTmp\cmTC_42fb0.vcxproj]
+
+
+Source:
+/* */
+#include <sys/soundcard.h>
+
+
+int main(void){return 0;}
+
+Determining if files machine/soundcard.h exist failed with the following output:
+Change Dir: E:/c/20.11.19/CMake_test/cmake_folder/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/MSBuild/Current/Bin/MSBuild.exe cmTC_d068f.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && Microsoft (R) Build Engine ўҐабЁЁ 16.3.1+1def00d3d ¤«п .NET Framework
+(C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation). ‚бҐ Їа ў  § йЁйҐ­л.
+
+  ЋЇвЁ¬Ё§ЁагойЁ© Є®¬ЇЁ«пв®а Microsoft (R) C/C++ ўҐабЁЁ 19.23.28106.4 ¤«п x64
+  ALLEGRO_HAVE_MACHINE_SOUNDCARD_H.c
+  (C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation).  ‚бҐ Їа ў  § йЁйҐ­л.
+  cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D WIN32 /D _WINDOWS /D _CRT_SECURE_NO_DEPRECATE /D _CRT_NONSTDC_NO_DEPRECATE /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_d068f.dir\Debug\\" /Fd"cmTC_d068f.dir\Debug\vc142.pdb" /Gd /TC /errorReport:queue E:\c\20.11.19\CMake_test\cmake_folder\CMakeFiles\CheckIncludeFiles\ALLEGRO_HAVE_MACHINE_SOUNDCARD_H.c
+E:\c\20.11.19\CMake_test\cmake_folder\CMakeFiles\CheckIncludeFiles\ALLEGRO_HAVE_MACHINE_SOUNDCARD_H.c(2,10): fatal error C1083: ЌҐ г¤ Ґвбп ®вЄалвм д ©« ўЄ«озҐ­ЁҐ: machine/soundcard.h: No such file or directory, [E:\c\20.11.19\CMake_test\cmake_folder\CMakeFiles\CMakeTmp\cmTC_d068f.vcxproj]
+
+
+Source:
+/* */
+#include <machine/soundcard.h>
+
+
+int main(void){return 0;}
+
+Determining if files linux/soundcard.h exist failed with the following output:
+Change Dir: E:/c/20.11.19/CMake_test/cmake_folder/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/MSBuild/Current/Bin/MSBuild.exe cmTC_7c4cc.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && Microsoft (R) Build Engine ўҐабЁЁ 16.3.1+1def00d3d ¤«п .NET Framework
+(C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation). ‚бҐ Їа ў  § йЁйҐ­л.
+
+  ЋЇвЁ¬Ё§ЁагойЁ© Є®¬ЇЁ«пв®а Microsoft (R) C/C++ ўҐабЁЁ 19.23.28106.4 ¤«п x64
+  ALLEGRO_HAVE_LINUX_SOUNDCARD_H.c
+  (C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation).  ‚бҐ Їа ў  § йЁйҐ­л.
+  cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D WIN32 /D _WINDOWS /D _CRT_SECURE_NO_DEPRECATE /D _CRT_NONSTDC_NO_DEPRECATE /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_7c4cc.dir\Debug\\" /Fd"cmTC_7c4cc.dir\Debug\vc142.pdb" /Gd /TC /errorReport:queue E:\c\20.11.19\CMake_test\cmake_folder\CMakeFiles\CheckIncludeFiles\ALLEGRO_HAVE_LINUX_SOUNDCARD_H.c
+E:\c\20.11.19\CMake_test\cmake_folder\CMakeFiles\CheckIncludeFiles\ALLEGRO_HAVE_LINUX_SOUNDCARD_H.c(2,10): fatal error C1083: ЌҐ г¤ Ґвбп ®вЄалвм д ©« ўЄ«озҐ­ЁҐ: linux/soundcard.h: No such file or directory, [E:\c\20.11.19\CMake_test\cmake_folder\CMakeFiles\CMakeTmp\cmTC_7c4cc.vcxproj]
+
+
+Source:
+/* */
+#include <linux/soundcard.h>
+
+
+int main(void){return 0;}
+
+Determining if files libkern/OSAtomic.h exist failed with the following output:
+Change Dir: E:/c/20.11.19/CMake_test/cmake_folder/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/MSBuild/Current/Bin/MSBuild.exe cmTC_33b5d.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && Microsoft (R) Build Engine ўҐабЁЁ 16.3.1+1def00d3d ¤«п .NET Framework
+(C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation). ‚бҐ Їа ў  § йЁйҐ­л.
+
+  ЋЇвЁ¬Ё§ЁагойЁ© Є®¬ЇЁ«пв®а Microsoft (R) C/C++ ўҐабЁЁ 19.23.28106.4 ¤«п x64
+  ALLEGRO_HAVE_OSATOMIC_H.c
+  (C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation).  ‚бҐ Їа ў  § йЁйҐ­л.
+  cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D WIN32 /D _WINDOWS /D _CRT_SECURE_NO_DEPRECATE /D _CRT_NONSTDC_NO_DEPRECATE /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_33b5d.dir\Debug\\" /Fd"cmTC_33b5d.dir\Debug\vc142.pdb" /Gd /TC /errorReport:queue E:\c\20.11.19\CMake_test\cmake_folder\CMakeFiles\CheckIncludeFiles\ALLEGRO_HAVE_OSATOMIC_H.c
+E:\c\20.11.19\CMake_test\cmake_folder\CMakeFiles\CheckIncludeFiles\ALLEGRO_HAVE_OSATOMIC_H.c(2,10): fatal error C1083: ЌҐ г¤ Ґвбп ®вЄалвм д ©« ўЄ«озҐ­ЁҐ: libkern/OSAtomic.h: No such file or directory, [E:\c\20.11.19\CMake_test\cmake_folder\CMakeFiles\CMakeTmp\cmTC_33b5d.vcxproj]
+
+
+Source:
+/* */
+#include <libkern/OSAtomic.h>
+
+
+int main(void){return 0;}
+
+Determining if files sys/inotify.h exist failed with the following output:
+Change Dir: E:/c/20.11.19/CMake_test/cmake_folder/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/MSBuild/Current/Bin/MSBuild.exe cmTC_c797b.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && Microsoft (R) Build Engine ўҐабЁЁ 16.3.1+1def00d3d ¤«п .NET Framework
+(C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation). ‚бҐ Їа ў  § йЁйҐ­л.
+
+  ЋЇвЁ¬Ё§ЁагойЁ© Є®¬ЇЁ«пв®а Microsoft (R) C/C++ ўҐабЁЁ 19.23.28106.4 ¤«п x64
+  ALLEGRO_HAVE_SYS_INOTIFY_H.c
+  (C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation).  ‚бҐ Їа ў  § йЁйҐ­л.
+  cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D WIN32 /D _WINDOWS /D _CRT_SECURE_NO_DEPRECATE /D _CRT_NONSTDC_NO_DEPRECATE /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_c797b.dir\Debug\\" /Fd"cmTC_c797b.dir\Debug\vc142.pdb" /Gd /TC /errorReport:queue E:\c\20.11.19\CMake_test\cmake_folder\CMakeFiles\CheckIncludeFiles\ALLEGRO_HAVE_SYS_INOTIFY_H.c
+E:\c\20.11.19\CMake_test\cmake_folder\CMakeFiles\CheckIncludeFiles\ALLEGRO_HAVE_SYS_INOTIFY_H.c(2,10): fatal error C1083: ЌҐ г¤ Ґвбп ®вЄалвм д ©« ўЄ«озҐ­ЁҐ: sys/inotify.h: No such file or directory, [E:\c\20.11.19\CMake_test\cmake_folder\CMakeFiles\CMakeTmp\cmTC_c797b.vcxproj]
+
+
+Source:
+/* */
+#include <sys/inotify.h>
+
+
+int main(void){return 0;}
+
+Determining if files sys/timerfd.h exist failed with the following output:
+Change Dir: E:/c/20.11.19/CMake_test/cmake_folder/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/MSBuild/Current/Bin/MSBuild.exe cmTC_d4159.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && Microsoft (R) Build Engine ўҐабЁЁ 16.3.1+1def00d3d ¤«п .NET Framework
+(C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation). ‚бҐ Їа ў  § йЁйҐ­л.
+
+  ЋЇвЁ¬Ё§ЁагойЁ© Є®¬ЇЁ«пв®а Microsoft (R) C/C++ ўҐабЁЁ 19.23.28106.4 ¤«п x64
+  ALLEGRO_HAVE_SYS_TIMERFD_H.c
+  (C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation).  ‚бҐ Їа ў  § йЁйҐ­л.
+  cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D WIN32 /D _WINDOWS /D _CRT_SECURE_NO_DEPRECATE /D _CRT_NONSTDC_NO_DEPRECATE /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_d4159.dir\Debug\\" /Fd"cmTC_d4159.dir\Debug\vc142.pdb" /Gd /TC /errorReport:queue E:\c\20.11.19\CMake_test\cmake_folder\CMakeFiles\CheckIncludeFiles\ALLEGRO_HAVE_SYS_TIMERFD_H.c
+E:\c\20.11.19\CMake_test\cmake_folder\CMakeFiles\CheckIncludeFiles\ALLEGRO_HAVE_SYS_TIMERFD_H.c(2,10): fatal error C1083: ЌҐ г¤ Ґвбп ®вЄалвм д ©« ўЄ«озҐ­ЁҐ: sys/timerfd.h: No such file or directory, [E:\c\20.11.19\CMake_test\cmake_folder\CMakeFiles\CMakeTmp\cmTC_d4159.vcxproj]
+
+
+Source:
+/* */
+#include <sys/timerfd.h>
+
+
+int main(void){return 0;}
+
+Determining if the function getexecname exists failed with the following output:
+Change Dir: E:/c/20.11.19/CMake_test/cmake_folder/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/MSBuild/Current/Bin/MSBuild.exe cmTC_9c590.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && Microsoft (R) Build Engine ўҐабЁЁ 16.3.1+1def00d3d ¤«п .NET Framework
+(C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation). ‚бҐ Їа ў  § йЁйҐ­л.
+
+  ЋЇвЁ¬Ё§ЁагойЁ© Є®¬ЇЁ«пв®а Microsoft (R) C/C++ ўҐабЁЁ 19.23.28106.4 ¤«п x64
+  CheckFunctionExists.c
+  (C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation).  ‚бҐ Їа ў  § йЁйҐ­л.
+  cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D WIN32 /D _WINDOWS /D _CRT_SECURE_NO_DEPRECATE /D _CRT_NONSTDC_NO_DEPRECATE /D CHECK_FUNCTION_EXISTS=getexecname /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_9c590.dir\Debug\\" /Fd"cmTC_9c590.dir\Debug\vc142.pdb" /Gd /TC /errorReport:queue "C:\programs\cmake\share\cmake-3.16\Modules\CheckFunctionExists.c"
+CheckFunctionExists.obj : error LNK2019: ссылка на неразрешенный внешний символ getexecname в функции main [E:\c\20.11.19\CMake_test\cmake_folder\CMakeFiles\CMakeTmp\cmTC_9c590.vcxproj]
+E:\c\20.11.19\CMake_test\cmake_folder\CMakeFiles\CMakeTmp\Debug\cmTC_9c590.exe : fatal error LNK1120: неразрешенных внешних элементов: 1 [E:\c\20.11.19\CMake_test\cmake_folder\CMakeFiles\CMakeTmp\cmTC_9c590.vcxproj]
+
+
+
+Determining if the function mkstemp exists failed with the following output:
+Change Dir: E:/c/20.11.19/CMake_test/cmake_folder/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/MSBuild/Current/Bin/MSBuild.exe cmTC_716bb.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && Microsoft (R) Build Engine ўҐабЁЁ 16.3.1+1def00d3d ¤«п .NET Framework
+(C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation). ‚бҐ Їа ў  § йЁйҐ­л.
+
+  ЋЇвЁ¬Ё§ЁагойЁ© Є®¬ЇЁ«пв®а Microsoft (R) C/C++ ўҐабЁЁ 19.23.28106.4 ¤«п x64
+  CheckFunctionExists.c
+  (C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation).  ‚бҐ Їа ў  § йЁйҐ­л.
+  cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D WIN32 /D _WINDOWS /D _CRT_SECURE_NO_DEPRECATE /D _CRT_NONSTDC_NO_DEPRECATE /D CHECK_FUNCTION_EXISTS=mkstemp /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_716bb.dir\Debug\\" /Fd"cmTC_716bb.dir\Debug\vc142.pdb" /Gd /TC /errorReport:queue "C:\programs\cmake\share\cmake-3.16\Modules\CheckFunctionExists.c"
+CheckFunctionExists.obj : error LNK2019: ссылка на неразрешенный внешний символ mkstemp в функции main [E:\c\20.11.19\CMake_test\cmake_folder\CMakeFiles\CMakeTmp\cmTC_716bb.vcxproj]
+E:\c\20.11.19\CMake_test\cmake_folder\CMakeFiles\CMakeTmp\Debug\cmTC_716bb.exe : fatal error LNK1120: неразрешенных внешних элементов: 1 [E:\c\20.11.19\CMake_test\cmake_folder\CMakeFiles\CMakeTmp\cmTC_716bb.vcxproj]
+
+
+
+Determining if the function mmap exists failed with the following output:
+Change Dir: E:/c/20.11.19/CMake_test/cmake_folder/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/MSBuild/Current/Bin/MSBuild.exe cmTC_d3fc8.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && Microsoft (R) Build Engine ўҐабЁЁ 16.3.1+1def00d3d ¤«п .NET Framework
+(C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation). ‚бҐ Їа ў  § йЁйҐ­л.
+
+  ЋЇвЁ¬Ё§ЁагойЁ© Є®¬ЇЁ«пв®а Microsoft (R) C/C++ ўҐабЁЁ 19.23.28106.4 ¤«п x64
+  CheckFunctionExists.c
+  (C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation).  ‚бҐ Їа ў  § йЁйҐ­л.
+  cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D WIN32 /D _WINDOWS /D _CRT_SECURE_NO_DEPRECATE /D _CRT_NONSTDC_NO_DEPRECATE /D CHECK_FUNCTION_EXISTS=mmap /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_d3fc8.dir\Debug\\" /Fd"cmTC_d3fc8.dir\Debug\vc142.pdb" /Gd /TC /errorReport:queue "C:\programs\cmake\share\cmake-3.16\Modules\CheckFunctionExists.c"
+CheckFunctionExists.obj : error LNK2019: ссылка на неразрешенный внешний символ mmap в функции main [E:\c\20.11.19\CMake_test\cmake_folder\CMakeFiles\CMakeTmp\cmTC_d3fc8.vcxproj]
+E:\c\20.11.19\CMake_test\cmake_folder\CMakeFiles\CMakeTmp\Debug\cmTC_d3fc8.exe : fatal error LNK1120: неразрешенных внешних элементов: 1 [E:\c\20.11.19\CMake_test\cmake_folder\CMakeFiles\CMakeTmp\cmTC_d3fc8.vcxproj]
+
+
+
+Determining if the function mprotect exists failed with the following output:
+Change Dir: E:/c/20.11.19/CMake_test/cmake_folder/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/MSBuild/Current/Bin/MSBuild.exe cmTC_e4f4f.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && Microsoft (R) Build Engine ўҐабЁЁ 16.3.1+1def00d3d ¤«п .NET Framework
+(C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation). ‚бҐ Їа ў  § йЁйҐ­л.
+
+  ЋЇвЁ¬Ё§ЁагойЁ© Є®¬ЇЁ«пв®а Microsoft (R) C/C++ ўҐабЁЁ 19.23.28106.4 ¤«п x64
+  CheckFunctionExists.c
+  (C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation).  ‚бҐ Їа ў  § йЁйҐ­л.
+  cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D WIN32 /D _WINDOWS /D _CRT_SECURE_NO_DEPRECATE /D _CRT_NONSTDC_NO_DEPRECATE /D CHECK_FUNCTION_EXISTS=mprotect /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_e4f4f.dir\Debug\\" /Fd"cmTC_e4f4f.dir\Debug\vc142.pdb" /Gd /TC /errorReport:queue "C:\programs\cmake\share\cmake-3.16\Modules\CheckFunctionExists.c"
+CheckFunctionExists.obj : error LNK2019: ссылка на неразрешенный внешний символ mprotect в функции main [E:\c\20.11.19\CMake_test\cmake_folder\CMakeFiles\CMakeTmp\cmTC_e4f4f.vcxproj]
+E:\c\20.11.19\CMake_test\cmake_folder\CMakeFiles\CMakeTmp\Debug\cmTC_e4f4f.exe : fatal error LNK1120: неразрешенных внешних элементов: 1 [E:\c\20.11.19\CMake_test\cmake_folder\CMakeFiles\CMakeTmp\cmTC_e4f4f.vcxproj]
+
+
+
+Determining if the function sched_yield exists failed with the following output:
+Change Dir: E:/c/20.11.19/CMake_test/cmake_folder/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/MSBuild/Current/Bin/MSBuild.exe cmTC_b2134.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && Microsoft (R) Build Engine ўҐабЁЁ 16.3.1+1def00d3d ¤«п .NET Framework
+(C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation). ‚бҐ Їа ў  § йЁйҐ­л.
+
+  ЋЇвЁ¬Ё§ЁагойЁ© Є®¬ЇЁ«пв®а Microsoft (R) C/C++ ўҐабЁЁ 19.23.28106.4 ¤«п x64
+  CheckFunctionExists.c
+  (C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation).  ‚бҐ Їа ў  § йЁйҐ­л.
+  cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D WIN32 /D _WINDOWS /D _CRT_SECURE_NO_DEPRECATE /D _CRT_NONSTDC_NO_DEPRECATE /D CHECK_FUNCTION_EXISTS=sched_yield /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_b2134.dir\Debug\\" /Fd"cmTC_b2134.dir\Debug\vc142.pdb" /Gd /TC /errorReport:queue "C:\programs\cmake\share\cmake-3.16\Modules\CheckFunctionExists.c"
+CheckFunctionExists.obj : error LNK2019: ссылка на неразрешенный внешний символ sched_yield в функции main [E:\c\20.11.19\CMake_test\cmake_folder\CMakeFiles\CMakeTmp\cmTC_b2134.vcxproj]
+E:\c\20.11.19\CMake_test\cmake_folder\CMakeFiles\CMakeTmp\Debug\cmTC_b2134.exe : fatal error LNK1120: неразрешенных внешних элементов: 1 [E:\c\20.11.19\CMake_test\cmake_folder\CMakeFiles\CMakeTmp\cmTC_b2134.vcxproj]
+
+
+
+Determining if the function sysconf exists failed with the following output:
+Change Dir: E:/c/20.11.19/CMake_test/cmake_folder/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/MSBuild/Current/Bin/MSBuild.exe cmTC_8f8b0.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && Microsoft (R) Build Engine ўҐабЁЁ 16.3.1+1def00d3d ¤«п .NET Framework
+(C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation). ‚бҐ Їа ў  § йЁйҐ­л.
+
+  ЋЇвЁ¬Ё§ЁагойЁ© Є®¬ЇЁ«пв®а Microsoft (R) C/C++ ўҐабЁЁ 19.23.28106.4 ¤«п x64
+  CheckFunctionExists.c
+  (C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation).  ‚бҐ Їа ў  § йЁйҐ­л.
+  cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D WIN32 /D _WINDOWS /D _CRT_SECURE_NO_DEPRECATE /D _CRT_NONSTDC_NO_DEPRECATE /D CHECK_FUNCTION_EXISTS=sysconf /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_8f8b0.dir\Debug\\" /Fd"cmTC_8f8b0.dir\Debug\vc142.pdb" /Gd /TC /errorReport:queue "C:\programs\cmake\share\cmake-3.16\Modules\CheckFunctionExists.c"
+CheckFunctionExists.obj : error LNK2019: ссылка на неразрешенный внешний символ sysconf в функции main [E:\c\20.11.19\CMake_test\cmake_folder\CMakeFiles\CMakeTmp\cmTC_8f8b0.vcxproj]
+E:\c\20.11.19\CMake_test\cmake_folder\CMakeFiles\CMakeTmp\Debug\cmTC_8f8b0.exe : fatal error LNK1120: неразрешенных внешних элементов: 1 [E:\c\20.11.19\CMake_test\cmake_folder\CMakeFiles\CMakeTmp\cmTC_8f8b0.vcxproj]
+
+
+
+Determining if the function fseeko exists failed with the following output:
+Change Dir: E:/c/20.11.19/CMake_test/cmake_folder/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/MSBuild/Current/Bin/MSBuild.exe cmTC_d3463.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && Microsoft (R) Build Engine ўҐабЁЁ 16.3.1+1def00d3d ¤«п .NET Framework
+(C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation). ‚бҐ Їа ў  § йЁйҐ­л.
+
+  ЋЇвЁ¬Ё§ЁагойЁ© Є®¬ЇЁ«пв®а Microsoft (R) C/C++ ўҐабЁЁ 19.23.28106.4 ¤«п x64
+  CheckFunctionExists.c
+  (C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation).  ‚бҐ Їа ў  § йЁйҐ­л.
+  cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D WIN32 /D _WINDOWS /D _CRT_SECURE_NO_DEPRECATE /D _CRT_NONSTDC_NO_DEPRECATE /D CHECK_FUNCTION_EXISTS=fseeko /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_d3463.dir\Debug\\" /Fd"cmTC_d3463.dir\Debug\vc142.pdb" /Gd /TC /errorReport:queue "C:\programs\cmake\share\cmake-3.16\Modules\CheckFunctionExists.c"
+CheckFunctionExists.obj : error LNK2019: ссылка на неразрешенный внешний символ fseeko в функции main [E:\c\20.11.19\CMake_test\cmake_folder\CMakeFiles\CMakeTmp\cmTC_d3463.vcxproj]
+E:\c\20.11.19\CMake_test\cmake_folder\CMakeFiles\CMakeTmp\Debug\cmTC_d3463.exe : fatal error LNK1120: неразрешенных внешних элементов: 1 [E:\c\20.11.19\CMake_test\cmake_folder\CMakeFiles\CMakeTmp\cmTC_d3463.vcxproj]
+
+
+
+Determining if the function ftello exists failed with the following output:
+Change Dir: E:/c/20.11.19/CMake_test/cmake_folder/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/MSBuild/Current/Bin/MSBuild.exe cmTC_7564d.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && Microsoft (R) Build Engine ўҐабЁЁ 16.3.1+1def00d3d ¤«п .NET Framework
+(C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation). ‚бҐ Їа ў  § йЁйҐ­л.
+
+  ЋЇвЁ¬Ё§ЁагойЁ© Є®¬ЇЁ«пв®а Microsoft (R) C/C++ ўҐабЁЁ 19.23.28106.4 ¤«п x64
+  CheckFunctionExists.c
+  (C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation).  ‚бҐ Їа ў  § йЁйҐ­л.
+  cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D WIN32 /D _WINDOWS /D _CRT_SECURE_NO_DEPRECATE /D _CRT_NONSTDC_NO_DEPRECATE /D CHECK_FUNCTION_EXISTS=ftello /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_7564d.dir\Debug\\" /Fd"cmTC_7564d.dir\Debug\vc142.pdb" /Gd /TC /errorReport:queue "C:\programs\cmake\share\cmake-3.16\Modules\CheckFunctionExists.c"
+CheckFunctionExists.obj : error LNK2019: ссылка на неразрешенный внешний символ ftello в функции main [E:\c\20.11.19\CMake_test\cmake_folder\CMakeFiles\CMakeTmp\cmTC_7564d.vcxproj]
+E:\c\20.11.19\CMake_test\cmake_folder\CMakeFiles\CMakeTmp\Debug\cmTC_7564d.exe : fatal error LNK1120: неразрешенных внешних элементов: 1 [E:\c\20.11.19\CMake_test\cmake_folder\CMakeFiles\CMakeTmp\cmTC_7564d.vcxproj]
+
+
+
+Performing C SOURCE FILE Test ALLEGRO_HAVE_PROCFS_ARGCV failed with the following output:
+Change Dir: E:/c/20.11.19/CMake_test/cmake_folder/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/MSBuild/Current/Bin/MSBuild.exe cmTC_e9011.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && Microsoft (R) Build Engine ўҐабЁЁ 16.3.1+1def00d3d ¤«п .NET Framework
+(C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation). ‚бҐ Їа ў  § йЁйҐ­л.
+
+  ЋЇвЁ¬Ё§ЁагойЁ© Є®¬ЇЁ«пв®а Microsoft (R) C/C++ ўҐабЁЁ 19.23.28106.4 ¤«п x64
+  src.c
+  (C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation).  ‚бҐ Їа ў  § йЁйҐ­л.
+  cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D WIN32 /D _WINDOWS /D _CRT_SECURE_NO_DEPRECATE /D _CRT_NONSTDC_NO_DEPRECATE /D ALLEGRO_HAVE_PROCFS_ARGCV /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_e9011.dir\Debug\\" /Fd"cmTC_e9011.dir\Debug\vc142.pdb" /Gd /TC /errorReport:queue E:\c\20.11.19\CMake_test\cmake_folder\CMakeFiles\CMakeTmp\src.c
+E:\c\20.11.19\CMake_test\cmake_folder\CMakeFiles\CMakeTmp\src.c(2,14): fatal error C1083: ЌҐ г¤ Ґвбп ®вЄалвм д ©« ўЄ«озҐ­ЁҐ: sys/procfs.h: No such file or directory, [E:\c\20.11.19\CMake_test\cmake_folder\CMakeFiles\CMakeTmp\cmTC_e9011.vcxproj]
+
+
+Source file was:
+
+    #include <sys/procfs.h>
+    int main(void) {
+        struct prpsinfo psinfo;
+        psinfo.pr_argc = 0;
+        return 0;
+    }
+Performing C SOURCE FILE Test ALLEGRO_HAVE_SV_PROCFS_H failed with the following output:
+Change Dir: E:/c/20.11.19/CMake_test/cmake_folder/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/MSBuild/Current/Bin/MSBuild.exe cmTC_fc126.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && Microsoft (R) Build Engine ўҐабЁЁ 16.3.1+1def00d3d ¤«п .NET Framework
+(C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation). ‚бҐ Їа ў  § йЁйҐ­л.
+
+  ЋЇвЁ¬Ё§ЁагойЁ© Є®¬ЇЁ«пв®а Microsoft (R) C/C++ ўҐабЁЁ 19.23.28106.4 ¤«п x64
+  src.c
+  (C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation).  ‚бҐ Їа ў  § йЁйҐ­л.
+  cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D WIN32 /D _WINDOWS /D _CRT_SECURE_NO_DEPRECATE /D _CRT_NONSTDC_NO_DEPRECATE /D ALLEGRO_HAVE_SV_PROCFS_H /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_fc126.dir\Debug\\" /Fd"cmTC_fc126.dir\Debug\vc142.pdb" /Gd /TC /errorReport:queue E:\c\20.11.19\CMake_test\cmake_folder\CMakeFiles\CMakeTmp\src.c
+E:\c\20.11.19\CMake_test\cmake_folder\CMakeFiles\CMakeTmp\src.c(2,14): fatal error C1083: ЌҐ г¤ Ґвбп ®вЄалвм д ©« ўЄ«озҐ­ЁҐ: sys/procfs.h: No such file or directory, [E:\c\20.11.19\CMake_test\cmake_folder\CMakeFiles\CMakeTmp\cmTC_fc126.vcxproj]
+
+
+Source file was:
+
+    #include <sys/procfs.h>
+    #include <sys/ioctl.h>
+    int main(void) {
+        struct prpsinfo psinfo;
+        ioctl(0, PIOCPSINFO, &psinfo);
+        return 0;
+    }
